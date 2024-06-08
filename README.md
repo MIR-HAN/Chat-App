@@ -7,15 +7,6 @@ This chat application was developed using FireBase's Authentication and Firestor
 
 Website is coded with JSX CSS & REACT.JS
 
-# Librarys
-
-- @reduxjs/toolkit
-- react-redux
-- axios
-- bootstrap
-- leaflet (Map)
-- react-leaflet
-
 
 <h2>Vercel-Link </h2>
 <a>https://chat-app-lilac-five-24.vercel.app/</a>
